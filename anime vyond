@@ -1,4 +1,4 @@
-var character = "guy"; // change to "adam", "guy , "eve" , or "rocky" Change both guys to guy if you want to change gender
+var character = "guy"; // change to "adam", "guy , "eve" , or "rocky" Change both guys to girl if you want to change gender
 
 $('#char_creator_client').flash({
     id: "char_creator",
